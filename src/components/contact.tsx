@@ -62,7 +62,7 @@ const Contact = () => {
             />
           </div>
           <a
-            href="tel:+2349163169949"
+            href="tel:+2347077793855"
             className={`text-[#FFFFFF99] tex-base font-medium md:text-[20px] md:leading-[30px]`}
           >
             +2347077793855
