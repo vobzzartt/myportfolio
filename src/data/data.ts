@@ -2,7 +2,7 @@ export const projects = [
   {
     name: "RollV AI",
     desc: "Resume/CV generation platform powered by AI for Nigerian graduates and professionals.",
-    lang: "Next.js + Node.js + TailwindCSS + Python + Figma",
+    lang: "Next.js + Node.js + TailwindCSS + OpenAI + Figma",
     link: "https://rollv.app/",
   },
   {
@@ -14,7 +14,7 @@ export const projects = [
 {
   name: "SoilPay",
   desc: "Virtual card and wallet system for secure digital payments across Africa.",
-  lang: "TypeScript + Node.js + TailwindCSS + React.js",
+  lang: "TypeScript + Node.js + Next.js + React.js + MySql",
   link: "https://soilpay.app/",
 },
 {
@@ -26,13 +26,13 @@ export const projects = [
 {
   name: "Servafri",
   desc: "Cloud infrastructure for African startups.",
-  lang: "Next.js + C++ + React.js + Python + Java + AWS",
+  lang: "Node.js + C# + Python + Java + AWS",
   link: "https://servafri.com/",
 },
 {
   name: "MyPortfolio",
   desc: "Personal portfolio showcasing all my projects, skills, and dev journey.",
-  lang: "Typescript  + React.js + Tailwind CSS ",
+  lang: "Typescript  + Next.js",
   link: "https://victorbodude.name.ng/",
 }
 
