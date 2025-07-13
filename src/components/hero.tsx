@@ -1,4 +1,5 @@
 'use client';
+
 import RotatingTitles from './RotatingTitles';
 import { motion } from "framer-motion";
 import { IgIcon, InIcon, TwIcon } from "./svgs";
@@ -8,14 +9,12 @@ const Hero = () => {
   return (
     <section className="px-6 pt-24 md:px-10 lg:px-20 lg:pt-32 bg-[#0a0a23] text-[#f1f5f9]">
       <div className="flex flex-col md:flex-row items-center justify-between gap-16">
-        {/* LEFT: Text Section */}
         <motion.div
           initial={{ opacity: 0, y: 30 }}
           animate={{ opacity: 1, y: 0 }}
           transition={{ duration: 0.6 }}
           className="max-w-xl"
         >
-          {/* Dynamic Rotating Title */}
           <RotatingTitles />
 
           <p className="mt-6 text-lg text-[#94a3b8] leading-relaxed">
@@ -31,7 +30,6 @@ const Hero = () => {
             </p>
           </div>
 
-          {/* Social Icons */}
           <div className="mt-10 flex gap-6">
             <motion.a href="https://x.com/vobzzartt" target="_blank" whileHover={{ scale: 1.1 }}>
               <TwIcon className="w-8 h-8 rounded-full border-2 border-[#00c3ff] p-1 hover:bg-white transition-all" fill="#00c3ff" />
@@ -42,7 +40,7 @@ const Hero = () => {
             <motion.a href="https://linkedin.com/in/victorbodude" target="_blank" whileHover={{ scale: 1.1 }}>
               <InIcon className="w-8 h-8 rounded-full border-2 border-[#00c3ff] p-1 hover:bg-white transition-all" fill="#00c3ff" />
             </motion.a>
-            <motion.a href="https://github.com/vobzzartt" target="_blank" whileHover={{ scale: 1.1 }}>
+            <motion.a href="https://github.com/Vobzzartt" target="_blank" whileHover={{ scale: 1.1 }}>
               <svg
                 fill="#00c3ff"
                 viewBox="0 0 24 24"
@@ -54,7 +52,6 @@ const Hero = () => {
           </div>
         </motion.div>
 
-        {/* RIGHT: Hero Image */}
         <motion.div
           initial={{ scale: 0.9, opacity: 0 }}
           animate={{ scale: 1, opacity: 1 }}
