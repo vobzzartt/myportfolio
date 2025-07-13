@@ -90,7 +90,7 @@ export default function RootLayout({
                   "https://x.com/vobzzartt",
                   "https://www.instagram.com/vobzzartt",
                   "https://www.linkedin.com/in/victorbodude",
-                  "https://github.com/victorbodude"
+                  "https://github.com/vobzzartt"
                 ],
                 "jobTitle": "Software Engineer",
                 "worksFor": {
