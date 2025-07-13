@@ -23,7 +23,7 @@ const Hero = () => {
 
           <div className="mt-8 space-y-6 text-sm md:text-base text-[#e2e8f0]">
             <p>
-              I’m <strong>Victor Bodude</strong>, an 18-year-old Nigerian Software developer with over 2 years of experience across Web and App development, Cybersecurity, AI, and Cloud computing.
+              I’m <strong>Victor Bodude</strong>, a 18-year-old Nigerian Software developer with over 2 years of experience across Web and App development, Cybersecurity, AI, and Cloud computing.
             </p>
             <p>
               I specialize in building robust digital solutions. I’m also an entrepreneur, speaker, and mentor dedicated to solving real-world problems with tech.
