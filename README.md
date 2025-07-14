@@ -41,7 +41,7 @@ To change sitemap: edit `/public/sitemap.xml` and re-submit to Search Console
 
 ## 📈 SEO Setup
 
-We implemented SEO with Next.js metadata export API in `layout.tsx` including title, description, open graph, Twitter card, and favicon • Submitted sitemap to Google Search Console at `https://victorbodude.name.ng/sitemap.xml` • You can view performance reports in Search Console • Use `robots.txt` if needed for more control
+I implemented SEO with Next.js metadata export API in `layout.tsx` including title, description, open graph, Twitter card, and favicon • Submitted sitemap to Google Search Console at `https://victorbodude.name.ng/sitemap.xml` • You can view performance reports in Search Console • Use `robots.txt` if needed for more control
 
 ## 🐞 Troubleshooting
 
