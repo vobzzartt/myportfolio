@@ -40,7 +40,7 @@ const Hero = () => {
             <motion.a href="https://linkedin.com/in/victorbodude" target="_blank" whileHover={{ scale: 1.1 }}>
               <InIcon className="w-8 h-8 rounded-full border-2 border-[#00c3ff] p-1 hover:bg-white transition-all" fill="#00c3ff" />
             </motion.a>
-            <motion.a href="https://github.com/Vobzzartt" target="_blank" whileHover={{ scale: 1.1 }}>
+            <motion.a href="https://github.com/vobzzartt" target="_blank" whileHover={{ scale: 1.1 }}>
               <svg
                 fill="#00c3ff"
                 viewBox="0 0 24 24"
