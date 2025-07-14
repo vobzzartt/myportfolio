@@ -1,4 +1,4 @@
-# 💼 Victor Bodude – Developer Portfolio [Live Demo](https://victorbodude.name.ng)
+# 💼 Victor Bodude – Developer Portfolio
 
 This is the personal developer portfolio of **Victor Bodude**, a fullstack Nigerian software engineer, built using **Next.js 13 App Router**, **Tailwind CSS**, **Framer Motion**, and deployed on **Vercel** with full SEO optimization, responsive design, resume download, GitHub + CI/CD integration, and scalable code structure that highlights projects, bio, experience, and social presence.
 
