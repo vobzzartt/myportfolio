@@ -24,7 +24,7 @@ Animated rotating intro titles • Responsive mobile-first design • Hero secti
 
 ## 🌍 Deployment
 
-We used **Vercel** for continuous deployment:  
+I used **Vercel** for continuous deployment:  
 - Connect your GitHub repo to Vercel at [https://vercel.com](https://vercel.com)  
 - Every push to `main` branch triggers auto redeploy  
 - You can also trigger redeploy manually in your Vercel dashboard  
