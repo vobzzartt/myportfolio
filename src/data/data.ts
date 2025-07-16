@@ -159,11 +159,11 @@ export const skills = [
   },
   {
     id: 13,
-    title: "Photoshop",
+    title: "AWS",
   },
   {
     id: 14,
-    title: "CorelDraw",
+    title: "Azure",
   },
   {
     id: 15,
