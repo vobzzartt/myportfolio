@@ -11,7 +11,7 @@ const geistSans = Poppins({
 
 export const metadata: Metadata = {
   title: 'Victor Bodude | Software Engineer & Tech Innovator',
-  description: 'Victor Bodude is an 18-year-old Nigerian Software Engineer with over 2 years of experience in Web, App, AI, Cybersecurity, and Cloud development. Founder of Big7 Technologies, he is dedicated to building scalable solutions that address real-world problems.',
+  description: 'Creating innovative and scalable software solutions that address real-world challenges with performance and efficiency.',
   keywords: [
     'Victor Bodude', 
     'Youngest Software Engineer in Nigeria', 
@@ -52,7 +52,7 @@ export const metadata: Metadata = {
   },
   openGraph: {
     title: 'Victor Bodude | Software Engineer & Tech Innovator',
-    description: 'Building scalable, high-performance software solutions to solve real-world problems.',
+    description: 'Creating innovative and scalable software solutions that address real-world challenges with performance and efficiency.',
     url: 'https://victorbodude.name.ng',
     siteName: 'Victor Bodude Portfolio',
     images: [
