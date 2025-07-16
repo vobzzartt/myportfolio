@@ -28,7 +28,7 @@ const Navbar = () => {
                             <Link
                                 target="_blank"
                                 rel="noreferrer"
-                                href="https://www.github.com/victorbodude"
+                                href="https://www.github.com/vobzzartt"
                                 className="group-hover:text-white transition-colors duration-300"
                             >
                                 <span className="flex items-center gap-[8px] md:gap-[10px]">
