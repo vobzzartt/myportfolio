@@ -6,9 +6,9 @@ const roles = [
   'an App Developer',
   'a Cloud Engineer',
   'a Robotics Engineer',
-  'a UI/UX Designer',
   'a Full Stack Developer',
-  'an Entrepreneur',
+  'a an Entrepreneur',
+  'a Photographer',
 ];
 
 export default function RotatingTitles() {
@@ -17,7 +17,7 @@ export default function RotatingTitles() {
   useEffect(() => {
     const interval = setInterval(() => {
       setIndex((prev) => (prev + 1) % roles.length);
-    }, 2000); // Rotate every 2 seconds
+    }, 2500); // Rotate every 2.5 seconds
 
     return () => clearInterval(interval);
   }, []);
