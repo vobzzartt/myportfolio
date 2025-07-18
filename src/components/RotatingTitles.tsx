@@ -17,7 +17,7 @@ export default function RotatingTitles() {
   useEffect(() => {
     const interval = setInterval(() => {
       setIndex((prev) => (prev + 1) % roles.length);
-    }, 2500); // Rotate every 2.5 seconds
+    }, 3000); // Rotate every 3 seconds
 
     return () => clearInterval(interval);
   }, []);
