@@ -34,8 +34,8 @@ const services = [
   },
   {
     id: 4,
-    title: "Robotics & Automation",
-    description: "Engineering smart robotic systems and automation workflows, combining hardware design and software logic for industrial and academic use cases.",
+    title: "Web3 Innovation",
+    description: "Pioneering decentralized solutions and blockchain breakthroughs, blending cutting-edge technology with creative vision for industrial and academic use cases.",
     icon: BotIcon,
     category: "Engineering"
   },
