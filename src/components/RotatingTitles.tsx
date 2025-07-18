@@ -5,8 +5,8 @@ const roles = [
   'a Software Engineer',
   'an App Developer',
   'a Cloud Engineer',
-  'a Robotics Engineer',
   'a Full Stack Developer',
+  'a Web3 Innovator',
   'an Entrepreneur',
   'a Photographer',
 ];
