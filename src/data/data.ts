@@ -139,7 +139,7 @@ export const skills = [
   },
   {
     id: 8,
-    title: "C",
+    title: "C#",
   },
   {
     id: 9,
@@ -151,7 +151,7 @@ export const skills = [
   },
   {
     id: 11,
-    title: "Flutter",
+    title: "Dart",
   },
   {
     id: 12,
@@ -167,10 +167,14 @@ export const skills = [
   },
   {
     id: 15,
-    title: "Digital Marketing",
+    title: "Web3",
+  },
+  {
+    id: 16,
+    title: "Figma",
   },
   {
     id: Math.random(),
-    title: "Figma",
+    title: "Digital Marketing",
   },
 ];
