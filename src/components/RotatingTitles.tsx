@@ -8,7 +8,7 @@ const roles = [
   'a Full Stack Developer',
   'a Web3 Innovator',
   'an Entrepreneur',
-  'a Photographer',
+  'Friendly, feel free to Connect ❤️',
 ];
 
 export default function RotatingTitles() {
