@@ -6,10 +6,10 @@ export const projects = [
     link: "https://rollv.app/",
   },
   {
-  name: "Jekosoft Gadgets",
+  name: "Shop54",
   desc: "Multi-vendor e-commerce platform tailored for Nigerian SMEs and local vendors.",
   lang: "HTML + CSS + JavaScript + PHP + MySQL",
-  link: "https://jekosoft.com/",
+  link: "https://shop54.com.ng/",
 },
 {
   name: "SoilPay",
