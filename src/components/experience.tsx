@@ -55,7 +55,7 @@ const Experience = () => {
                 ]
               },
               {
-                title: "Backend Developer and CEO",
+                title: "Backend Developer and MD",
                 company: "BigBoost Media Hub",
                 location: "Lagos, Nigeria",
                 period: "2025 - Present",
