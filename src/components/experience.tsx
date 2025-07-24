@@ -31,7 +31,7 @@ const Experience = () => {
               {
                 title: "Founder",
                 company: "Big7 Technologies",
-                location: "Dublin, Ireland",
+                location: "UK",
                 period: "2024 – Present",
                 description: [
                   "Founded Big7 Technologies as a parent tech company building products that solve African problems through innovation.",
@@ -45,7 +45,7 @@ const Experience = () => {
               },
               {
                 title: "Fullstack Developer",
-                company: "CoreFlow",
+                company: "Shop54",
                 location: "Lagos, Nigeria",
                 period: "2023 - 2024",
                 description: [
