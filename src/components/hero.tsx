@@ -26,7 +26,7 @@ const Hero = () => {
               I’m <strong>Victor Bodude</strong>, a 18-year-old Nigerian Software engineer and tech entrepreneur with over two years of hands-on experience across Full-stack development, Cybersecurity, AI, Cloud infrastructure, and Blockchain innovation.
             </p>
             <p>
-              I specialize in building robust digital solutions. I’m also an entrepreneur, speaker, and mentor dedicated to solving real-world problems with tech.
+              I specialize in building high-performance digital solutions. I’m also an Entrepreneur, Speaker, and Mentor dedicated to leveraging technology to solve meaningful problems.
             </p>
           </div>
 
