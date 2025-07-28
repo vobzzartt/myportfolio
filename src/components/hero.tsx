@@ -18,15 +18,18 @@ const Hero = () => {
           <RotatingTitles />
 
           <p className="mt-6 text-lg text-[#94a3b8] leading-relaxed">
-            I build clean, scalable applications and cloud platforms using modern technologies.
+            I build scalable, secure, and future-ready applications that solve real-world problems—leveraging the power of web, mobile, AI, cloud, and Web3 technologies.
           </p>
 
           <div className="mt-8 space-y-6 text-sm md:text-base text-[#e2e8f0]">
             <p>
-              I’m <strong>Victor Bodude</strong>, a 18-year-old Nigerian Software developer with over 2 years of experience across Web and App development, Cybersecurity, AI, Cloud computing, and Web3.
+              I’m <strong>Victor Bodude</strong>, an 18-year-old Nigerian software engineer and tech entrepreneur with over two years of experience in full-stack development, cybersecurity, cloud computing, AI, and blockchain technologies.
             </p>
             <p>
-              I specialize in building robust digital solutions. I’m also an entrepreneur, speaker, and mentor dedicated to solving real-world problems with tech.
+              I'm the founder of <strong>Big7 Technologies</strong>, where I lead a mission to build impactful digital solutions that empower people, transform industries, and drive sustainable innovation across Africa and beyond.
+            </p>
+            <p>
+              I specialize in crafting clean, scalable, and robust applications built with precision and purpose. I'm also a mentor, speaker, and community builder passionate about using technology to solve meaningful problems and inspire the next generation of African tech talent.
             </p>
           </div>
 
