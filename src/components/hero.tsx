@@ -23,10 +23,26 @@ const Hero = () => {
 
           <div className="mt-8 space-y-6 text-sm md:text-base text-[#e2e8f0]">
             <p>
-              I’m <strong>Victor Bodude</strong>, a 18-year-old Nigerian Software developer with over 2 years of experience across Web and App development, Cybersecurity, AI, Cloud computing, and Web3.
+              I’m Victor Bodude, an 18-year-old Nigerian software engineer and tech entrepreneur with over two years of hands-on experience across full-stack development, cybersecurity, AI, cloud infrastructure, and blockchain innovation.
             </p>
             <p>
-              I specialize in building robust digital solutions. I’m also an entrepreneur, speaker, and mentor dedicated to solving real-world problems with tech.
+              I’m the founder of Big7 Technologies, where I lead a mission to build impactful digital solutions that empower people, transform industries, and drive sustainable innovation across Africa and beyond.
+            </p>
+            <p>
+              I specialize in crafting clean, robust, and scalable applications—engineered with precision and purpose. My work is rooted in a passion for problem-solving and a commitment to using technology as a tool for progress.
+            </p>
+            <p>
+              Beyond development, I’m also:
+              <br />• a mentor helping aspiring developers find their path in tech,
+              <br />• a speaker passionate about digital transformation in Africa,
+              <br />• and a builder dedicated to creating systems that make a difference.
+            </p>
+            <p>
+              Whether I’m shipping code, mentoring teams, or shaping strategy, one thing stays the same: <br />
+              I’m here to build—and to build boldly.
+            </p>
+            <p>
+              Let’s shape the future—one idea, one solution, and one innovation at a time.
             </p>
           </div>
 
