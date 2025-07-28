@@ -23,7 +23,7 @@ const Hero = () => {
 
           <div className="mt-8 space-y-6 text-sm md:text-base text-[#e2e8f0]">
             <p>
-              I’m <strong>Victor Bodude</strong>, an 18-year-old Nigerian software engineer and tech entrepreneur with over two years of experience in full-stack development, cybersecurity, cloud computing, AI, and blockchain technologies.
+              I’m <strong>Victor Bodude</strong>, a 18-year-old Nigerian software engineer and tech entrepreneur with over two years of experience in full-stack development, cybersecurity, cloud computing, AI, and blockchain technologies.
             </p>
             <p>
               I'm the founder of <strong>Big7 Technologies</strong>, where I lead a mission to build impactful digital solutions that empower people, transform industries, and drive sustainable innovation across Africa and beyond.
