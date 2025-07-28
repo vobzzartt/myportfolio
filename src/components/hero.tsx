@@ -18,7 +18,7 @@ const Hero = () => {
           <RotatingTitles />
 
           <p className="mt-6 text-lg text-[#94a3b8] leading-relaxed">
-            I build scalable, secure, and future-ready applications that solve real-world problems—leveraging the power of Web, Mobile, AI, Cloud, and Web3 technologies.
+            I build clean, scalable applications and cloud platforms using modern technologies.
           </p>
 
           <div className="mt-8 space-y-6 text-sm md:text-base text-[#e2e8f0]">
