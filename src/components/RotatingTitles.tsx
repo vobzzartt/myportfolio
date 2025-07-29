@@ -2,6 +2,7 @@
 import { useEffect, useState } from 'react';
 
 const roles = [
+  '<h3><strong>Victor Bodude</strong></h3>',
   'a Software Engineer',
   'an App Developer',
   'a Cloud Engineer',
