@@ -1,21 +1,9 @@
 export const projects = [
   {
-    name: "RollV AI",
-    desc: "Resume/CV generation platform powered by AI for Nigerian graduates and professionals.",
-    lang: "Next.js + Node.js + TailwindCSS + OpenAI + Figma",
-    link: "https://rollv.app/",
-  },
-  {
-  name: "Shop54",
-  desc: "Multi-vendor e-commerce platform tailored for Nigerian SMEs and local vendors.",
-  lang: "HTML + CSS + JavaScript + PHP + MySQL",
-  link: "https://shop54.com.ng/",
-},
-{
-  name: "SoilPay",
-  desc: "Virtual card and wallet system for secure digital payments across Africa.",
-  lang: "TypeScript + Node.js + Next.js + React.js + MySql",
-  link: "https://soilpay.app/",
+  name: "Servafri",
+  desc: "Cloud infrastructure for African startups.",
+  lang: "Node.js + C# + Python + Java + AWS",
+  link: "https://servafri.com/",
 },
 {
   name: "BigBoost Media  Hub",
@@ -23,12 +11,7 @@ export const projects = [
   lang: "HTML + CSS + JavaScript + PHP + CodeIgniter + MySQL",
   link: "https://bigboost.com.ng/",
 },
-{
-  name: "Servafri",
-  desc: "Cloud infrastructure for African startups.",
-  lang: "Node.js + C# + Python + Java + AWS",
-  link: "https://servafri.com/",
-},
+
 {
   name: "MyPortfolio",
   desc: "Personal portfolio showcasing all my projects, skills, and dev journey.",
