@@ -72,7 +72,7 @@ const Services = () => {
           </h1>
           <div className="h-1 w-24 bg-gradient-to-r from-purple-500 to-blue-500 mb-6" />
           <p className="text-[#FFFFFF99] text-base md:text-l">
-            Specialized in multiple domains of software and hardware engineering
+            Specialized in multiple domains of Software Engineering
           </p>
         </motion.div>
 
