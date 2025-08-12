@@ -27,7 +27,7 @@ const services = [
   },
   {
     id: 3,
-    title: "App & Software Development",
+    title: "App Development",
     description: "Building efficient mobile and desktop applications tailored for cross-platform performance and intuitive user journeys.",
     icon: Smartphone,
     category: "Mobile"
