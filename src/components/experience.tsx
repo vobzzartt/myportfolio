@@ -42,17 +42,7 @@ const Experience = () => {
                   "Lead a multidisciplinary team focused on engineering, branding, user experience, and market expansion."
                 ]
               },
-              {
-                title: "Fullstack Developer",
-                company: "Shop54",
-                location: "Lagos, Nigeria",
-                period: "2023 - 2024",
-                description: [
-                  "Led the development and implementation of innovative web solutions.",
-                  "Managed both frontend and backend aspects of projects.",
-                  "Collaborated with cross-functional teams to deliver high-quality software products.",
-                ]
-              },
+              
               {
                 title: "Backend Developer and MD",
                 company: "BigBoost Media Hub",
