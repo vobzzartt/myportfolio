@@ -1,13 +1,13 @@
 export const projects = [
   {
   name: "Servafri",
-  desc: "Cloud infrastructure for African startups.",
+  desc: "A robust Cloud hosting & SaaS infrastructure platform designed to support the growth of startups, businesses, and developers. ServAfri offers a secure, scalable, and reliable cloud environment, empowering businesses to innovate and expand in the digital space. Visit www.servafri.com to Explore.",
   lang: "Node.js + C# + Python + Java + AWS",
   link: "https://servafri.com/",
 },
 {
   name: "BigBoost Media  Hub",
-  desc: "An SMM panel where you can buy social media engagement. It provides a wide range of social media services, including followers, likes, views, and more.",
+  desc: "A powerful social media marketing automation platform that helps businesses amplify their digital presence. BigBoost Media Hub is designed to simplify social media strategies, boost engagement, and drive brand growth at scale. Visit www.bigboost.com.ng to Explore.",
   lang: "HTML + CSS + JavaScript + PHP + CodeIgniter + MySQL",
   link: "https://bigboost.com.ng/",
 },
