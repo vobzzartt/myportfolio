@@ -38,7 +38,6 @@ const Experience = () => {
                   "Spearheaded the launch and operations of core platforms:",
                   "• ServAfri – a robust cloud hosting & SaaS infrastructure platform for startups, businesses, and developers.",
                   "• BigBoost Media Hub – an SMM platform offering social media marketing automation at scale.",
-                  "• Soilpay – a secure fintech service enabling seamless online payments, wallet funding, and digital transactions.",
                   "Architected a scalable ecosystem where platforms interconnect and grow under a unified brand vision.",
                   "Lead a multidisciplinary team focused on engineering, branding, user experience, and market expansion."
                 ]
