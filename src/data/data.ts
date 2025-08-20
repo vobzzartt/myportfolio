@@ -8,7 +8,7 @@ export const projects = [
 {
   name: "BigBoost Media  Hub",
   desc: "A powerful social media marketing automation platform that helps businesses amplify their digital presence. BigBoost Media Hub is designed to simplify social media strategies, boost engagement, and drive brand growth at scale. Visit www.bigboost.com.ng to Explore.",
-  lang: "HTML + CSS + JavaScript + PHP + CodeIgniter + MySQL",
+  lang: "HTML + CSS + JavaScript + PHP + MySQL",
   link: "https://bigboost.com.ng/",
 },
 
