@@ -132,24 +132,18 @@ export const skills = [
     id: 10,
     title: "MySql",
   },
+  
   {
     id: 11,
-    title: "Dart",
-  },
-  {
-    id: 12,
     title: "Swift",
   },
   {
     id: 13,
     title: "AWS",
   },
+  
   {
     id: 14,
-    title: "Azure",
-  },
-  {
-    id: 15,
     title: "Web3",
   },
   {
