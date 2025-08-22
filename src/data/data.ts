@@ -122,7 +122,7 @@ export const skills = [
   },
   {
     id: 8,
-    title: "C#",
+    title: "C",
   },
   {
     id: 9,
@@ -132,9 +132,13 @@ export const skills = [
     id: 10,
     title: "MySql",
   },
+{
+    id: 11,
+    title: "COBOL",
+  },
   
   {
-    id: 11,
+    id: 12,
     title: "Swift",
   },
   {
@@ -147,7 +151,7 @@ export const skills = [
     title: "Web3",
   },
   {
-    id: 16,
+    id: 15,
     title: "Figma",
   },
   {
