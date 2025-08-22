@@ -137,21 +137,18 @@ export const skills = [
     title: "COBOL",
   },
   
+
   {
     id: 12,
-    title: "Swift",
-  },
-  {
-    id: 13,
     title: "AWS",
   },
   
   {
-    id: 14,
+    id: 13,
     title: "Web3",
   },
   {
-    id: 15,
+    id: 14,
     title: "Figma",
   },
   {
