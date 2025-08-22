@@ -21,7 +21,7 @@ const services = [
   {
     id: 2,
     title: "Backend Architecture",
-    description: "Creating scalable APIs and secure server-side systems with Node.js, Python, PHP, Laravel, C, Java, and modern databases — built for speed, flexibility, and growth.",
+    description: "Creating scalable APIs and secure server-side systems with Python, PHP, Laravel, C, COBOL, Java, and modern databases — built for speed, flexibility, and growth.",
     icon: Server,
     category: "Development"
   },
