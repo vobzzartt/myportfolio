@@ -14,7 +14,7 @@ const services = [
   {
     id: 1,
     title: "Frontend Engineering",
-    description: "Designing sleek, responsive interfaces using HTML, CSS, JavaScript, Bootstrap, React, and TypeScript — prioritizing accessibility, performance, and seamless user interaction.",
+    description: "Designing sleek, responsive interfaces using HTML, CSS, JavaScript, React, and TypeScript — prioritizing accessibility, performance, and seamless user interaction.",
     icon: Code,
     category: "Development"
   },
