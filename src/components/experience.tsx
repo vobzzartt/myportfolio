@@ -44,12 +44,12 @@ const Experience = () => {
               },
               
               {
-                title: "Backend Developer and MD",
+                title: "Backend Developer",
                 company: "BigBoost Media Hub",
                 location: "Lagos, Nigeria",
                 period: "2025 - Present",
                 description: [
-                  "Founded and Built West Africa’s leading SMM platform, offering Instagram, TikTok, YouTube, X, Facebook, Spotify, and more boosts.",
+                  "Built West Africa’s leading SMM platform, offering Instagram, TikTok, YouTube, X, Facebook, Spotify, and more boosts.",
                   "Built and optimized backend services to process high‑volume social media engagement orders—all while ensuring fast delivery and scalability.",
                   "Integrated multiple payment gateways, UI dashboard, and API access for resellers to automate orders in real time.",
                   "Collaborated with product and support teams to ensure 24/7 service availability and seamless multi-platform engagement.",
