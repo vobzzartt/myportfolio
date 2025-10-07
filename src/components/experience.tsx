@@ -50,8 +50,8 @@ const Experience = () => {
               {
                 title: "Founder & CTO",
                 company: "ServAfri Cloud",
-                location: "Lagos, Nigeria",
-                period: "2024 – Present",
+                location: "Africa",
+                period: "2025 – Present",
                 icon: Cloud,
                 description: [
                   "Built ServAfri as Africa’s adaptive cloud infrastructure platform for startups, developers, and businesses.",
@@ -62,7 +62,7 @@ const Experience = () => {
                 ]
               },
               {
-                title: "Lead Engineer",
+                title: "Lead",
                 company: "BigBoost Media Hub",
                 location: "Lagos, Nigeria",
                 period: "2025 – Present",
