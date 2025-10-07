@@ -32,7 +32,7 @@ const Experience = () => {
           <div className="space-y-12">
             {[
               {
-                title: "Founder & CEO",
+                title: "Founder",
                 company: "Big7 Technologies",
                 location: "UK",
                 period: "2024 – Present",
@@ -48,7 +48,7 @@ const Experience = () => {
                 ]
               },
               {
-                title: "Founder & CTO",
+                title: "Co-Founder & CTO",
                 company: "ServAfri Cloud",
                 location: "Africa",
                 period: "2025 – Present",
