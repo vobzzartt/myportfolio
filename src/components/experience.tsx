@@ -49,7 +49,7 @@ const Experience = () => {
               },
               {
                 title: "Co-Founder & CTO",
-                company: "ServAfri Cloud",
+                company: "ServAfri",
                 location: "Africa",
                 period: "2025 – Present",
                 icon: Cloud,
