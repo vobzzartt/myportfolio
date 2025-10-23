@@ -1,82 +1,23 @@
 export const projects = [
   {
-  name: "Servafri",
-  desc: "A robust Cloud hosting & SaaS infrastructure platform designed to support the growth of startups, businesses, and developers. ServAfri offers a secure, scalable, and reliable cloud environment, empowering businesses to innovate and expand in the digital space. Visit www.servafri.com to Explore.",
-  lang: "Node.js + C# + Python + Java + AWS",
-  link: "https://servafri.com/",
-},
-{
-  name: "BigBoost Media  Hub",
-  desc: "A powerful social media marketing automation platform that helps businesses amplify their digital presence. BigBoost Media Hub is designed to simplify social media strategies, boost engagement, and drive brand growth at scale. Visit www.bigboost.com.ng to Explore.",
-  lang: "HTML + CSS + JavaScript + PHP + MySQL",
-  link: "https://bigboost.com.ng/",
-},
-
-{
-  name: "MyPortfolio",
-  desc: "Personal portfolio showcasing all my projects, skills, and dev journey.",
-  lang: "Typescript  + Next.js",
-  link: "https://victorbodude.name.ng/",
-}
-
- 
-  // {
-  //   name: "BukkaFoods",
-  //   desc: "Online food ordering and delivery app connecting customers with local Bukkas.",
-  //   lang: "Flutter + Firebase + TailwindCSS",
-  //   link: "https://victorbodude.name.ng/",
-  // },
-  // {
-  //   name: "SmartInvoice NG",
-  //   desc: "Invoice and payment tracking tool for Nigerian freelancers and SMEs.",
-  //   lang: "TypeScript + Next.js + Node.js + CorelDraw",
-  //   link: "https://victorbodude.name.ng/",
-  // },
-  // {
-  //   name: "EdoTickets",
-  //   desc: "Ticketing system for Edo State events, culture shows, and concerts.",
-  //   lang: "JavaScript + Node.js + Bootstrap + Digital Marketing",
-  //   link: "https://victorbodude.name.ng/",
-  // },
-  // {
-  //   name: "Clanshare",
-  //   desc: "Secure file-sharing web app with encrypted link generation.",
-  //   lang: "React.js + Node.js + TailwindCSS + Figma",
-  //   link: "https://victorbodude.name.ng/",
-  // },
-  // {
-  //   name: "ZeeAnalytics",
-  //   desc: "Analytics dashboard for smart waste monitoring in Nigerian cities.",
-  //   lang: "Next.js + Python + TailwindCSS + Java",
-  //   link: "https://victorbodude.name.ng/",
-  // },
-  // {
-  //   name: "Jekosoft Gadgets",
-  //   desc: "E-commerce platform for Phones and accessories.",
-  //   lang: "HTML + CSS + JavaScript + PHP + MySQL",
-  //   link: "https://jekosoft.com/",
-  // },
-  // {
-  //   name: "IndulgeTix",
-  //   desc: "Event ticketing platform with QR code scanning and real-time seat updates.",
-  //   lang: "React.js + Node.js + TailwindCSS + Figma",
-  //   link: "https://victorbodude.name.ng/",
-  // },
-  
-  // {
-  //   name: "Toastify.js",
-  //   desc: "Custom toast notification library for React apps.",
-  //   lang: "TypeScript + JavaScript + Node.js",
-  //   link: "https://victorbodude.name.ng/",
-  // },
-  // {
-  //   name: "Validatr.js",
-  //   desc: "Reusable form validation library built for modern frontend frameworks.",
-  //   lang: "TypeScript + Node.js + JavaScript",
-  //   link: "https://victorbodude.name.ng/",
-  // },
+    name: "ServAfri",
+    desc: "ServAfri is a next-generation cloud infrastructure and SaaS platform built to power Africa’s digital future. It provides developers, startups, and enterprises with scalable compute, storage, and API tools for deploying apps and services with local payment integration, transparent billing, and low-latency African-based zones. ServAfri enables businesses to grow faster, pay locally, and scale globally. Visit www.servafri.com to Explore.",
+    lang: "Node.js + Go + Python + TypeScript + Kubernetes + Docker + Terraform + Cloudflare",
+    link: "https://servafri.com/",
+  },
+  {
+    name: "BigBoost Media  Hub",
+    desc: "A powerful social media marketing automation platform that helps businesses amplify their digital presence. BigBoost Media Hub is designed to simplify social media strategies, boost engagement, and drive brand growth at scale. Visit www.bigboost.com.ng to Explore.",
+    lang: "HTML + CSS + JavaScript + PHP + MySQL",
+    link: "https://bigboost.com.ng/",
+  },
+  {
+    name: "MyPortfolio",
+    desc: "Personal portfolio showcasing all my projects, skills, and dev journey.",
+    lang: "Typescript  + Next.js",
+    link: "https://victorbodude.name.ng/",
+  },
 ];
-
 
 export const experienceData = [
   {
@@ -88,67 +29,19 @@ export const experienceData = [
 ];
 
 export const skills = [
-  {
-    id: 0,
-    title: "Html",
-  },
-  {
-    id: 1,
-    title: "Css",
-  },
-  
-  {
-    id: 2,
-    title: "JavaScript",
-  },
-  {
-    id: 3,
-    title: "ReactJs",
-  },
-  {
-    id: 4,
-    title: "TypeScript",
-  },
-  {
-    id: 5,
-    title: "PHP",
-  },
-  {
-    id: 6,
-    title: "Python",
-  },
-  {
-    id: 7,
-    title: "C",
-  },
-  {
-    id: 8,
-    title: "Java",
-  },
-  {
-    id: 9,
-    title: "MySql",
-  },
-{
-    id: 10,
-    title: "COBOL",
-  },
-  
-  {
-    id: 12,
-    title: "AWS",
-  },
-  
-  {
-    id: 13,
-    title: "Web3",
-  },
-  {
-    id: 14,
-    title: "Figma",
-  },
-  {
-    id: Math.random(),
-    title: "Digital Marketing",
-  },
+  { id: 0, title: "Html" },
+  { id: 1, title: "Css" },
+  { id: 2, title: "JavaScript" },
+  { id: 3, title: "ReactJs" },
+  { id: 4, title: "TypeScript" },
+  { id: 5, title: "PHP" },
+  { id: 6, title: "Python" },
+  { id: 7, title: "C" },
+  { id: 8, title: "Java" },
+  { id: 9, title: "MySql" },
+  { id: 10, title: "COBOL" },
+  { id: 12, title: "Cloud Computing" },
+  { id: 13, title: "Web3" },
+  { id: 14, title: "Figma" },
+  { id: Math.random(), title: "Digital Marketing" },
 ];
