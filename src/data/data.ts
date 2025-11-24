@@ -2,7 +2,7 @@ export const projects = [
   {
     name: "ServAfri",
     desc: "ServAfri is a next-generation cloud infrastructure and SaaS platform built to power Africa’s digital future. It provides developers, startups, and enterprises with scalable compute, storage, and API tools for deploying apps and services with local payment integration, transparent billing, and low-latency African-based zones. ServAfri enables businesses to grow faster, pay locally, and scale globally. Visit www.servafri.com to Explore.",
-    lang: "Node.js + Go + Python + TypeScript + Kubernetes + Docker + Terraform + Cloudflare",
+    lang: "Golang",
     link: "https://servafri.com/",
   },
   {
@@ -36,10 +36,10 @@ export const skills = [
   { id: 4, title: "TypeScript" },
   { id: 5, title: "PHP" },
   { id: 6, title: "Python" },
-  { id: 7, title: "C" },
+  { id: 7, title: "C++" },
   { id: 8, title: "Java" },
-  { id: 9, title: "MySql" },
-  { id: 10, title: "COBOL" },
+  { id: 9, title: "Go" },
+  { id: 10, title: "MySQL" },
   { id: 12, title: "Cloud Computing" },
   { id: 13, title: "Web3" },
   { id: 14, title: "Figma" },
