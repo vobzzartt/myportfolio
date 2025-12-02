@@ -27,10 +27,10 @@ const services = [
   },
   {
     id: 3,
-    title: "App Development",
-    description: "Building efficient mobile and desktop applications tailored for cross-platform performance and intuitive user journeys.",
-    icon: Smartphone,
-    category: "Mobile"
+    title: "Software Testing",
+    description: "Designing and executing manual and automated tests to ensure reliability, stability, and consistent performance across systems.",
+    icon: ShieldCheck,
+    category: "Engineering"
   },
   {
     id: 4,
@@ -41,13 +41,6 @@ const services = [
   },
   {
     id: 5,
-    title: "Software Testing",
-    description: "Designing and executing manual and automated tests to ensure reliability, stability, and consistent performance across systems.",
-    icon: ShieldCheck,
-    category: "Engineering"
-  },
-  {
-    id: 6,
     title: "Cloud Engineering",
     description: "Deploying, managing, and scaling applications using cloud infrastructure — ensuring reliability, security, and efficiency across platforms.",
     icon: Cloud,
