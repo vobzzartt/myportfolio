@@ -33,7 +33,6 @@ export const skills = [
   { id: 1, title: "Css" },
   { id: 2, title: "JavaScript" },
   { id: 3, title: "ReactJs" },
-  { id: 4, title: "TypeScript" },
   { id: 5, title: "PHP" },
   { id: 6, title: "Python" },
   { id: 7, title: "Java" },
