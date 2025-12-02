@@ -2,7 +2,6 @@
 
 import { motion } from "framer-motion";
 import {
-  Smartphone,
   BotIcon,
   Cloud,
   Code,
@@ -14,7 +13,7 @@ const services = [
   {
     id: 1,
     title: "Frontend Engineering",
-    description: "Designing sleek, responsive interfaces using HTML, CSS, JavaScript, React, — prioritizing accessibility, performance, and seamless user interaction.",
+    description: "Designing sleek, responsive interfaces using HTML, CSS, JavaScript, and React. Prioritizing accessibility, performance, and seamless user interaction.",
     icon: Code,
     category: "Development"
   },
@@ -35,7 +34,7 @@ const services = [
   {
     id: 4,
     title: "Web3 Innovation",
-    description: "Pioneering decentralized solutions and blockchain breakthroughs, blending cutting-edge technology with creative vision for industrial and academic use cases.",
+    description: "Pioneering decentralized solutions and blockchain development through smart contract engineering and next-generation distributed systems.",
     icon: BotIcon,
     category: "Engineering"
   },
