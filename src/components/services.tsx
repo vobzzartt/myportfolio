@@ -4,24 +4,24 @@ import { motion } from "framer-motion";
 import {
   Smartphone,
   BotIcon,
-  Palette,
   Cloud,
   Code,
-  Server
+  Server,
+  ShieldCheck
 } from 'lucide-react';
 
 const services = [
   {
     id: 1,
     title: "Frontend Engineering",
-    description: "Designing sleek, responsive interfaces using HTML, CSS, JavaScript, React, and TypeScript — prioritizing accessibility, performance, and seamless user interaction.",
+    description: "Designing sleek, responsive interfaces using HTML, CSS, JavaScript, React, — prioritizing accessibility, performance, and seamless user interaction.",
     icon: Code,
     category: "Development"
   },
   {
     id: 2,
     title: "Backend Architecture",
-    description: "Creating scalable APIs and secure server-side systems with Python, PHP, C++, Go, Java, and modern databases — built for speed, flexibility, and growth.",
+    description: "Creating scalable APIs and secure server-side systems with Python, PHP, Go, Java, and modern databases — built for speed, flexibility, and growth.",
     icon: Server,
     category: "Development"
   },
@@ -41,10 +41,10 @@ const services = [
   },
   {
     id: 5,
-    title: "UI/UX Design",
-    description: "Designing clean, functional, and engaging interfaces with a focus on usability and modern design standards.",
-    icon: Palette,
-    category: "Design"
+    title: "Software Testing",
+    description: "Designing and executing manual and automated tests to ensure reliability, stability, and consistent performance across systems.",
+    icon: ShieldCheck,
+    category: "Engineering"
   },
   {
     id: 6,
@@ -58,7 +58,7 @@ const services = [
 const Services = () => {
   return (
     <section className="relative py-24 px-4 md:px-8 lg:px-16 overflow-hidden">
-      <div className="absolute inset-0 " />
+      <div className="absolute inset-0" />
       <div className="max-w-7xl mx-auto relative">
         <motion.div
           initial={{ opacity: 0, y: -20 }}
@@ -78,7 +78,7 @@ const Services = () => {
 
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
           {services.map((service) => {
-            const Icon = service.icon; // 👈 fix: alias the icon as a component
+            const Icon = service.icon;
             return (
               <motion.div
                 key={service.id}
