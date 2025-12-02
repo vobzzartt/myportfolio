@@ -42,7 +42,6 @@ const Experience = () => {
                   "Built an ecosystem of powerful technology brands under one umbrella, including:",
                   "• ServAfri – a modern cloud hosting & SaaS infrastructure company helping African startups and developers deploy globally with local payment options.",
                   "• BigBoost Media Hub – a fast-growing Social Media Marketing platform offering automation tools for creators, agencies, and brands.",
-                  "• SoilBot – an upcoming automation layer for social media and business processes.",
                   "Architected a unified brand vision connecting all sub-companies under Big7’s mission: empowering Africa’s digital future.",
                   "Lead strategy, technology, and operational oversight across subsidiaries to ensure innovation, security, and scalability."
                 ]
