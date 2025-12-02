@@ -54,7 +54,7 @@ const Experience = () => {
                 icon: Cloud,
                 description: [
                   "Built ServAfri as Africa’s adaptive cloud infrastructure platform for startups, developers, and businesses.",
-                  "Lead the Engineering, DevOps, and Cloud Architecture teams in designing secure, high-performance hosting and SaaS systems.",
+                  "Lead the Engineering, DevOps, and Cloud Architecture teams in designing secure, high-performance Cloud hosting.",
                   "Developed localized payment integration systems enabling customers to pay seamlessly via African payment gateways.",
                   "Spearheaded innovations like auto-scaling servers, unified control dashboards, and developer-friendly deployment pipelines.",
                   "Focused on making cloud technology affordable, accessible, and locally integrated for Africa’s digital economy."
